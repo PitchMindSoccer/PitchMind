@@ -18,7 +18,7 @@ If Leo is unsure about something, he flags it for Daniel with `❓ ASK DANIEL:` 
 
 ## What Leo Knows So Far
 
-### Sessions Completed (001–018)
+### Sessions Completed (001–019)
 | Session | Topics | Files | Size |
 |---|---|---|---|
 | 001 | Pressing, space management, passing, first touch, off-ball movement, midfielder spatial awareness, scenarios | 10 | ~68KB |
@@ -39,8 +39,9 @@ If Leo is unsure about something, he flags it for Daniel with `❓ ASK DANIEL:` 
 | 016 | **Physical conditioning & fatigue effects on decision-making, elite coach fatigue management, age-group conditioning progressions** | **1** | **~40KB** |
 | 017 | **Set piece offense (attacking corners, free kicks, throw-ins), elite coach philosophies (Guardiola, Ancelotti, Tuchel, Potter, Dyche, Rangnick), opposition-specific design, second-phase positioning, fatigue vulnerability** | **1** | **~38KB** |
 | 018 | **Team shape effects on individual player decisions (4-3-3 vs 4-4-2 vs 4-2-3-1 vs 3-5-2; pressing triggers, positioning, coverage, fatigue)** | **1** | **~32KB** |
+| 019 | **Formation-specific fatigue curves (3-5-2, 4-3-3, 4-2-3-1, 4-4-2); position-specific vulnerability windows; decision-making degradation by formation; fatigue multiplier framework; elite coach fatigue management (Guardiola, Tuchel, Conte, Klopp)** | **1** | **~41KB** |
 
-**Total: ~70 files, ~1258KB**
+**Total: ~71 files, ~1299KB**
 
 ---
 
@@ -114,8 +115,8 @@ Leo's analysis of the 72 sub-sub categories (12 sub-cats × 6 each) shows:
 
 - [x] **Set piece offense** — ✅ COMPLETED (SESSION-017-SET-PIECE-OFFENSE.md, 38KB) — Session 017
 - [x] **Team shape and how it affects individual player decisions** — ✅ COMPLETED (SESSION-018-TEAM-SHAPE-INDIVIDUAL-DECISIONS.md, 32KB) — Session 018
-- [ ] **Formation-specific fatigue curves** — how different formations interact with fatigue degradation (4-3-3 vs. 3-5-2 vs. 4-2-3-1) — **NEXT (Session 019)**
-- [ ] **Inverted fullback positioning effects on midfield structure** — how inverted FB changes CM/CAM decisions — **QUEUED (Session 020)**
+- [x] **Formation-specific fatigue curves** — ✅ COMPLETED (SESSION-019-FORMATION-SPECIFIC-FATIGUE-CURVES.md, 41KB) — Session 019
+- [ ] **Inverted fullback positioning effects on midfield structure** — how inverted FB changes CM/CAM decisions — **NEXT (Session 020)**
 - [ ] **Italian/European tactical methodology** — the Scribd book Daniel found (needs download first)
 - [ ] **Croatian football methodology** — Daniel's professional background; unique insights available
 
@@ -226,5 +227,6 @@ Leo's analysis of the 72 sub-sub categories (12 sub-cats × 6 each) shows:
 | Mar 2, 2026 (Session 016) | **Physical conditioning & fatigue**, how central/peripheral/metabolic fatigue degrades decision-making, elite coach fatigue management (Guardiola, Ancelotti, Potter, Klopp, Ten Hag, Rangnick), age-group conditioning progressions (U10-U18), position-specific fatigue curves, fatigue multiplier framework for scoring | Internal synthesis (sports science research: Bangsbo, Rampinini, Di Salvo, Vaeyens, Carling; elite coach fatigue philosophies; youth development age-specific approaches; decision-making degradation rates by category) | Psychological fatigue vs. metabolic fatigue isolation; tactical fatigue cumulative decision load; position-specific decision-making strategy switching; formation-specific fatigue resilience (4-3-3 vs. 3-5-2 vs. 4-2-3-1); goalkeeper fatigue-distribution accuracy correlation |
 | Mar 2, 2026 (Session 017) | **Set piece offense** — attacking corners, free kicks, throw-ins, elite coach philosophies (Guardiola asymmetry/deception, Ancelotti simplicity, Tuchel choreography, Potter opposition-specific, Dyche pragmatism, Rangnick pressing integration), second-phase positioning, fatigue vulnerability in final 20 mins, position-specific attacking roles | Internal synthesis (elite coach set piece philosophies, tactical design patterns, conversion data 8-12%, opposition-specific design methodology, second-phase goal rate 30-40% of set piece totals) | Goalkeeper distribution accuracy under set piece chaos; inverted fullback set piece attack positioning; optimal corner-taking timing/interval; how fatigue affects set piece execution (choreography vs. timing); throw-in efficiency correlation with possession %; age-group set piece training variance |
 | Mar 3, 2026 (Session 018) | **Team shape effects on individual player decisions** — 4-3-3 vs 4-4-2 vs 4-2-3-1 vs 3-5-2 formation structures; pressing trigger changes; coverage responsibilities; passing lane availability; cover shadow geometry; CDM vs CM vs winger vs wing-back role differences; formation-specific pressing philosophies (Guardiola positional vs. Klopp intense vs. Rangnick structured); fatigue curves by formation; decision-making framework for scoring in different formations | Web research (Coaches' Voice, Ekkono Coaching, Modern Soccer Coach, Tactical Analyst, formation-specific tactical guides); internal synthesis (formation adaptation mechanics, pressing trigger recognition, half-space utilization, build-up advantages/disadvantages) | Formation transitions mid-match; asymmetrical formations (half-pitch formation changes); inverted fullback impacts on formation structure (defer to Session 020); age-group formation introduction timing; set piece formation adjustments; psychological vs. metabolic fatigue in different formations |
+| Mar 3, 2026 (Session 019) | **Formation-specific fatigue curves** — 3-5-2 (wing-back vulnerability 65-75 min), 4-3-3 (midfielder fatigue 70-80 min), 4-2-3-1 (deceleration-heavy, CDM fatigue 65-75 min), 4-4-2 (balanced, striker isolation 75+ min); position-specific physical demand profiles; decision-making degradation curves; pressing trigger accuracy by formation; elite coach fatigue management (Guardiola, Tuchel, Conte, Klopp); age-group formation-specific fatigue (U12, U15, U18+); fatigue multiplier scoring framework | Scientific research (Tierney et al. 2016, Bradley et al. 2011, Arjol-Serrano et al. 2021, Memmert et al. 2019); Coaches' Voice formation analysis; GPS/tracking system data; elite coach philosophy synthesis | Tactical fatigue vs. metabolic fatigue isolation; formation transition mid-match fatigue reset; opposition formation impact on fatigue patterns; goalkeeper fatigue by formation; cumulative decision fatigue quantification |
 
 *Leo adds a row here after each research session.*
