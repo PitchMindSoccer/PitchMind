@@ -1,0 +1,261 @@
+# Leo â€” Learning Roadmap & Research Cycle
+*Self-directed learning plan. Leo updates this file after each session.*
+*Last updated: Mar 4, 2026 (Session 023 completed)*
+
+---
+
+## How This Works
+
+Leo follows a repeating cycle:
+1. **Learn** â€” research and build knowledge files from external sources + synthesis
+2. **Identify gaps** â€” update the "What I Need to Learn Next" section below
+3. **Research** â€” go find those answers (free PDFs, web sources, coaching content)
+4. **Repeat** â€” never stop learning; knowledge base is always growing
+
+If Leo is unsure about something, he flags it for Daniel with `â“ ASK DANIEL:` â€” because Daniel has real on-field experience that no source can replace.
+
+---
+
+## What Leo Knows So Far
+
+### Sessions Completed (001â€“019)
+| Session | Topics | Files | Size |
+|---|---|---|---|
+| 001 | Pressing, space management, passing, first touch, off-ball movement, midfielder spatial awareness, scenarios | 10 | ~68KB |
+| 002 | Shooting, dribbling, defensive positioning, attacking combinations | 8 | ~110KB |
+| 003 | Transitions, build-up under pressure, space reading | 7 | ~100KB |
+| 004 | Additional fundamentals | 6 | ~100KB |
+| 005 | Advanced concepts | 6 | ~115KB |
+| 006 | Rangnick, Cruyff, Potter, Manning, Torrent, Gary O'Neil, scanning, composure, body orientation | 9 | ~145KB |
+| 007 | GK fundamentals, sports psychology, Tifo tactical analysis, US Soccer youth dev, final third combos | 5 | ~136KB |
+| 008 | 4-3-3 formation principles, ST/CDM/CAM fundamentals, advanced pressing systems | 5 | ~112KB |
+| 009 | Youth development age groups U6â€“College, scoring tier modifiers, age-adjusted scoring framework | 1 | ~20KB |
+| 010 | Winger fundamentals, modern fullback, CB defensive organization, concentration/focus coaching, aerial duels/heading | 5 | ~64KB |
+| 011 | ST fundamentals, CDM fundamentals | 2 | ~81KB |
+| 012 | CM fundamentals, CAM fundamentals | 2 | ~65KB |
+| 013 | **GK distribution fundamentals, sweeper-keeper, build-up under pressure, distribution decision-making** | **1** | **~38KB** |
+| 014 | **Set piece defense, corners, free kicks, goalkeeper organization, defensive positioning** | **1** | **~44KB** |
+| 015 | **Player archetype profiles (ST, CM, CAM, CDM archetypes; LW/RW, CB, LB/RB, GK TBD)** | **4** | **~130KB** |
+| 016 | **Physical conditioning & fatigue effects on decision-making, elite coach fatigue management, age-group conditioning progressions** | **1** | **~40KB** |
+| 017 | **Set piece offense (attacking corners, free kicks, throw-ins), elite coach philosophies (Guardiola, Ancelotti, Tuchel, Potter, Dyche, Rangnick), opposition-specific design, second-phase positioning, fatigue vulnerability** | **1** | **~38KB** |
+| 018 | **Team shape effects on individual player decisions (4-3-3 vs 4-4-2 vs 4-2-3-1 vs 3-5-2; pressing triggers, positioning, coverage, fatigue)** | **1** | **~32KB** |
+| 019 | **Formation-specific fatigue curves (3-5-2, 4-3-3, 4-2-3-1, 4-4-2); position-specific vulnerability windows; decision-making degradation by formation; fatigue multiplier framework; elite coach fatigue management (Guardiola, Tuchel, Conte, Klopp)** | **1** | **~41KB** |
+| 020 | **Inverted fullback positioning effects on midfield structure; CM/CAM decision-making adjustments; 4-3-3 inverted vs. 4-2-3-1 inverted formations; elite coach philosophies (Guardiola, Enrique, Pochettino, Rose); youth development progressions (U12-U18); fatigue multiplier for cognitive load; set piece inverted FB roles** | **1** | **~27KB** |
+| 021 | **Croatian/European football methodology; Spanish/German/Dutch/Italian system archetypes; pressing triggers by formation; age-group progression timelines (U6-U18); GK distribution expectations; set piece philosophy by system; fatigue vulnerability by European system; practical application to PitchSavvy scoring** | **1** | **~40KB** |
+| 022 | **Italian tactical methodology; Catenaccio legacy â†’ modern evolution (Napoli Spalletti, Juventus structural, Roma Mourinho); pressing triggers (opposition-pass based); GK distribution risk appetite; European tactical hybrids (4-2-3-1 inverted, 3-5-2 pressing, 5-3-2 pragmatism); youth progressions U6-U18; set piece man-marking hybrid; fatigue profiles by Italian system; PitchSavvy scoring adjustments** | **1** | **~27KB** |
+| 023 | **Age-group specific formation progressions; cognitive development stages (U6-U18); tactical literacy windows by European system (Spanish, German, Italian, Dutch, Croatian); position-specific formation complexity curves; decision-making degradation in unfamiliar formations; GK distribution expectations by age; set piece role clarity by age; fatigue Ã— formation interaction; PitchSavvy radar multipliers (age Ã— formation matrix); 10 validation questions for Daniel** | **1** | **~39KB** |
+
+**Total: ~74 files, ~1405KB**
+
+---
+
+## Leo's Current View on Sub-Categories & Sub-Sub Categories
+
+### âš ï¸ THIS IS DRAFT â€” Needs Daniel's validation
+
+#### EXECUTION Sub-Categories (Technical)
+
+| Sub-Category | Leo's Confidence | Notes |
+|---|---|---|
+| Distribution | High | Well-covered in knowledge base |
+| Dribbling | High | 1v1, body manipulation, tight spaces all covered |
+| Shooting | High | Composure, placement, technique all covered |
+| First Touch | High | Tactical direction, weight, aerial â€” all covered |
+| Tackling | Medium | Timing + body position covered; jockeying needs more depth |
+| Shielding | Medium | Hold-up play covered; turning out of pressure needs more |
+
+**Gap flagged:** Heading/aerial duels â€” completely absent from current system. No knowledge files on this topic.
+
+â“ **ASK DANIEL:** Should heading/aerial duels be added as a 7th Execution sub-category? Or folded into an existing one?
+
+---
+
+#### PROBABILITY Sub-Categories (Soccer IQ)
+
+| Sub-Category | Leo's Confidence | Notes |
+|---|---|---|
+| Decision Making | High | On-ball speed, accuracy, under pressure â€” well covered |
+| Awareness | High | Scanning frequency, timing, 360Â° covered |
+| Positioning | High | Off-ball attack/defense, angles, third-man â€” covered |
+| Reading the Game | High | Transitions, anticipation, game state â€” covered |
+| Concentration/Focus | Medium | Consistency covered; recovery from mistakes needs more |
+| Problem-Solving | Medium | Creative solutions covered; double-press situations needs depth |
+
+---
+
+#### Sub-Sub Categories Leo Has Validated
+
+Leo's analysis of the 72 sub-sub categories (12 sub-cats Ã— 6 each) shows:
+- **Strong confidence:** Decision Making, Awareness, Positioning, Shooting, Dribbling, First Touch
+- **Moderate confidence:** Tackling, Shielding, Reading the Game, Problem-Solving
+- **Low confidence:** Concentration/Focus sub-sub cats (harder to detect from video)
+- **Missing entirely:** Heading/Aerial Duels, Advanced Jockeying technique
+
+---
+
+## What Leo Needs to Learn Next
+
+### ðŸ”´ HIGH PRIORITY (blocking scoring engine)
+
+- [x] **Heading & Aerial Duels** â€” âœ… COMPLETED (aerial-duels-heading.md, 20KB+)
+- [x] **Concentration/Focus â€” deeper dive** â€” âœ… COMPLETED (concentration-and-focus-coaching.md, 18KB+)
+- [x] **Position-specific radar axes** â€” âœ… COMPLETE (ST, CDM, CM, CAM, LW/RW, CB, LB/RB, GK all defined as of Session 013)
+- [x] **Goalkeeper distribution** â€” âœ… COMPLETED (gk-distribution-fundamentals.md, 38KB) â€” Session 013
+- [x] **Set piece DEFENSE only** â€” âœ… COMPLETED (set-piece-defense.md, 44KB) â€” Session 014
+- [ ] **Recovery after mistakes (mental)** â€” âœ… PARTIALLY COVERED in concentration-and-focus-coaching.md (Mistake Recovery section)
+
+### ðŸŸ¡ MEDIUM PRIORITY (important for scoring accuracy)
+
+- [x] **Jockeying â€” deeper dive** â€” âœ… Covered in cb-defensive-organization.md (1v1 defending section)
+- [x] **Winger fundamentals (LW/RW)** â€” âœ… COMPLETED (winger-fundamentals.md, 13.8KB)
+- [x] **Modern fullback (LB/RB)** â€” âœ… COMPLETED (modern-fullback.md, 13.8KB)
+- [x] **CB defensive organization** â€” âœ… COMPLETED (cb-defensive-organization.md, 18.9KB)
+- [x] **CM fundamentals** â€” âœ… COMPLETED (cm-fundamentals.md, 32.7KB) â€” Session 012
+- [x] **CAM fundamentals** â€” âœ… COMPLETED (cam-fundamentals.md, 32KB) â€” Session 012
+- [x] **Set piece DEFENSE only** â€” âœ… COMPLETED (set-piece-defense.md, 44KB) â€” Session 014 (defensive shape at corners, free kicks, goalkeeper organization)
+- [x] **Physical conditioning impact on decision-making** â€” âœ… COMPLETED (SESSION-016-CONDITIONING-FATIGUE.md, 40KB) â€” Session 016
+
+### ðŸŸ¢ LOWER PRIORITY (V2 / enrichment)
+
+- [x] **Set piece offense** â€” âœ… COMPLETED (SESSION-017-SET-PIECE-OFFENSE.md, 38KB) â€” Session 017
+- [x] **Team shape and how it affects individual player decisions** â€” âœ… COMPLETED (SESSION-018-TEAM-SHAPE-INDIVIDUAL-DECISIONS.md, 32KB) â€” Session 018
+- [x] **Formation-specific fatigue curves** â€” âœ… COMPLETED (SESSION-019-FORMATION-SPECIFIC-FATIGUE-CURVES.md, 41KB) â€” Session 019
+- [x] **Inverted fullback positioning effects on midfield structure** â€” âœ… COMPLETED (SESSION-020-INVERTED-FULLBACK-EFFECTS.md, 27KB) â€” Session 020
+- [x] **Croatian/European football methodology** â€” âœ… COMPLETED (SESSION-021-CROATIAN-EUROPEAN-METHODOLOGY.md, 40KB) â€” Session 021
+- [x] **Italian/European tactical methodology** â€” âœ… COMPLETED (SESSION-022-ITALIAN-EUROPEAN-TACTICS.md, 27KB) â€” Session 022
+- [x] **Age-group specific formation progressions** â€” âœ… COMPLETED (SESSION-023-AGE-GROUP-FORMATION-PROGRESSIONS.md, 39KB) â€” Session 023
+- [ ] **Opposition-specific tactical adaptation** â€” How elite teams counter specific formations; how 4-3-3 teams defend against 3-5-2; how Italian teams press Spanish possession; tactical shape matching by level (U12 vs. U15 vs. elite). Opposition analysis framework for PitchSavvy scoring. â€” **NEXT (Session 024)**
+
+---
+
+## Sources Leo Still Needs to Access
+
+| Source | Status | Why Needed |
+|---|---|---|
+| US Soccer Player Development Framework PDF | âŒ Blocked â€” CDN 404 | Official age-group standards |
+| UEFA Youth Development Guidelines | âŒ 404 | European standard benchmarks |
+| The FA Player Development Model | âŒ Blocked | UK framework comparison |
+| Scribd Italian Soccer Book | âŒ Needs Daniel download | European tactical methodology |
+| Scribd US Soccer Age Group Plans | âŒ Needs Daniel download | Official US standards |
+| Coaches Voice â€” remaining sessions | ðŸ”„ Ongoing | Elite coach insights |
+| StatsBomb open data | ðŸ”„ Planned for V2 | Match data validation |
+
+---
+
+## Leo's Self-Assessment (After Session 012)
+
+**Strong areas (can score confidently from video):**
+- On-ball decisions in transition
+- Passing quality and weight (all field positions)
+- Dribbling technique and 1v1 outcomes
+- Scanning behavior & concentration assessment
+- Positional assessment for all outfield positions (wingers, fullbacks, center-backs, midfielders, strikers)
+- Aerial duel assessment (timing, positioning, contact)
+- Mental/focus observation (pre-action, on-ball, post-action phases)
+- Position-specific fundamentals for all outfield positions (7 positions defined: ST, CDM, CM, CAM, LW/RW, LB/RB, CB)
+- Box-to-box midfield play (timing, positioning, tempo control)
+- Chance creation assessment (pass quality, decision-making, shooting)
+- Midfielder spatial awareness (half-space occupation, pressing decisions, reading pre-pass)
+
+**Weak areas (need more learning before scoring):**
+- Late-game fatigue effects on decision-making (minute 70-90 scoring adjustments)
+- Goalkeeper distribution patterns (sweeper-keeper role, build-up complexity, short vs long decision)
+- System-specific position adjustments (how roles change in 4-2-3-1 vs 3-5-2 vs 4-3-3)
+- Set piece defense (shape, positioning, marking)
+- Inverted fullback effects on midfield positioning
+
+**New confidence areas (Session 012):**
+- Can now assess CM decision-making (press/cover decisions, forward run timing, box-to-box positioning)
+- Can assess CM tempo control (managing speed of play, acceleration/deceleration timing)
+- Can assess CAM chance creation (through-ball quality, shooting decisions, dribble-and-release sequences)
+- Can assess CAM positioning in the half-spaces (between-the-lines movement, off-ball runs)
+- Can now assess the complete midfield trio (CDM, CM, CAM) with full radar axes defined for all three
+
+**New confidence areas (Session 013):**
+- Can now assess GK distribution (pass accuracy, decision-making under pressure, pass type selection)
+- Can assess sweeper-keeper timing and positioning (anticipatory vs. reactive sweeping, communication with defenders)
+- Can assess risk-appetite in distribution decisions (context-appropriate risk-taking based on game state, possession %)
+- Can assess GK press-reading and pre-pass assessment (how well goalkeeper reads opposition pressing structure)
+- Can now assess the complete goalkeeper position (shot-stopping + distribution + sweeper-keeper role) with full radar axes defined
+
+**New confidence areas (Session 014):**
+- Can now assess defender positioning at set pieces (correct distance, awareness of second-wave attackers, recovery speed)
+- Can assess goalkeeper organization/communication at set pieces (pre-set-piece clarity, claiming decisions, positioning)
+- Can identify elite coach philosophies on set piece defense (zonal vs. man-marking vs. hybrid, advantages/disadvantages of each)
+- Can assess position-specific set piece duties (CB marking vs. zoning, FB coverage of wide areas, DM tracking of 2nd wave)
+- Can understand formation-specific set piece structures (4-3-3 vs. 4-2-3-1 vs. 5-3-2 vulnerabilities)
+
+**âš ï¸ Lower confidence areas (Session 014):**
+- Set piece defense should be scored with LOWER confidence than open-play defense due to:
+  - Smaller sample sizes (fewer set pieces per match)
+  - Higher variance (team performance is inconsistent match-to-match)
+  - Lack of elite consensus (zonal vs. man-marking, both work at elite levels)
+  - Significant luck component (who's nearest a loose ball)
+  - Context-dependency (optimal approach varies by formation, opposition, game state)
+
+**New confidence areas (Session 016):**
+- Can now assess fatigue-induced decision-making degradation across the 90-minute arc (minutes 0-40 peak, 40-60 stable, 60-75 hidden fatigue window, 75-90 visible fatigue)
+- Can apply position-specific fatigue multipliers: Defenders (most vulnerable), Midfielders (most comprehensive), Forwards (least visible)
+- Can identify which decision-making categories degrade fastest (scanning frequency, anticipation, under-pressure decisions) vs. slowest (safe passing, defensive positioning)
+- Can assess whether a decision-making error is fatigue-caused or tactical/technical
+- Can adjust expectation for decision-making quality based on match minute and position
+- Can identify optimal fatigue management strategies (pressing intensity cycles vs. constant pressing vs. formation adjustments)
+- Can understand age-group fatigue curves and how they interact with position demands (U10-12 collapse, U12-15 second-half vulnerability, U15-18 final 15-minute fatigue)
+- Can recognize whether a player is experiencing physical fatigue (visible: slower running) vs. central/cognitive fatigue (invisible: reduced scanning, poor decision-making)
+
+**âš ï¸ Lower confidence areas (Session 016):**
+- Psychological fatigue vs. metabolic fatigue are difficult to distinguish from video alone
+- Cumulative decision fatigue (tactical load across 2,000+ positional decisions) is hard to quantify
+- Whether reduced scanning is fatigue-induced or a deliberate tactical choice to conserve attention
+- Some positions may actually IMPROVE under fatigue through focus-narrowing effect (sweeper-keeper, ball-winner roles)
+- Formation-specific fatigue curves (does a 3-5-2 midfielder fatigue differently than a 4-3-3 midfielder?) need validation
+
+**New confidence areas (Session 022):**
+- Can now assess Italian system GK distribution (risk appetite framework: conservative vs. moderate vs. aggressive)
+- Can identify Italian pressing triggers (opposition-pass-based, not position-based)
+- Can analyze European tactical hybrids (4-2-3-1 inverted, 3-5-2 pressing, 5-3-2 pragmatism)
+- Can assess youth formation introduction timelines (U6-U8 â†’ U9-U11 â†’ U12-U14 â†’ U15-U18 progressions)
+- Can understand Italian set piece philosophy (man-marking hybrid vs. pure zonal)
+- Can apply Italian fatigue profiles to decision-making degradation (Napoli high-press vs. Juventus structural approaches)
+
+**âš ï¸ Lower confidence areas (Session 022):**
+- Women's soccer tactical system calibration (gender differences in pressing, GK distribution, set pieces)
+- Formation transition mid-match fatigue effects (does changing formation reset fatigue clock?)
+- Opposition-specific Italian system counters (how do elite teams negate Italian defensive blocks?)
+- Goalkeeper fatigue-distribution accuracy correlation (minutes 70-90 accuracy degradation)
+- Gender-specific formation introduction windows (women's soccer academy timelines differ?)
+
+**â“ Outstanding Questions for Daniel:**
+1. In Croatian youth development, was set piece defense trained as heavily as open-play defense?
+2. Have you noticed goalkeeper communication quality correlate with defender positioning precision at set pieces?
+3. For young fullbacks transitioning to inverted fullback roles â€” should they learn set piece positioning for both traditional AND inverted roles from U12 onward?
+4. Does the "near-post tight defense" philosophy work better at certain age groups (U10-U12 vs. U15+)?
+5. Radar axes for set piece-specific positioning â€” what are the 3-4 most important dimensions for each position?
+6. Italian GK distribution: Do Croatian academies target >80% pass completion (Juventus style) or <75% (traditional)?
+7. Pressing trigger philosophy: Did Croatian coaches emphasize opposition-pass-based (Italian) or position-based (Spanish) pressing?
+8. When did you first encounter inverted fullback concepts? At what age did Croatian academy introduce this?
+9. Was your youth development structured with age-specific formation progressions, or more organic skill-first?
+10. Did Croatian coaching favor German-style intensity pressing or Italian-style positional discipline?
+
+---
+
+## Research Cycle Log
+
+| Date | What Was Researched | Sources Found | Gaps Identified |
+|---|---|---|---|
+| Feb 28, 2026 | Youth development U6-College | 3-4 working sources (positivecoach, Wikipedia cognitive dev, coaching manual) | US Soccer + UEFA PDFs blocked |
+| Feb 28, 2026 | Sessions 001-009 core topics | Coaches Voice, Tifo, StatsBomb, web synthesis | Aerial duels, concentration depth |
+| Feb 28, 2026 (Session 010) | Winger fundamentals, modern fullback, CB organization, concentration, aerial duels | Internal synthesis (modern pressing systems, elite player analysis, sports psychology, coaching methodology) | Position-specific radar axes for CDM/CM/CAM/GK; GK distribution patterns; age-adjusted concentration scoring |
+| Mar 1, 2026 (Session 011) | ST and CDM fundamentals | Internal synthesis (elite player archetypes, modern tactical roles, decision-making frameworks, coaching methodology) | Positional radar axes complete for ST + CDM; GK distribution role; position-fluid CAM assessment methodology |
+| Mar 1, 2026 (Session 012) | CM and CAM fundamentals | Internal synthesis (modern midfield archetypes, decision-making in attacking zones, tempo control, chance creation methodology) | GK distribution depth (sweeper-keeper, build-up complexity); system-specific role adjustments (4-2-3-1 vs 3-5-2 vs 4-3-3); set piece defense; inverted fullback positioning effects |
+| Mar 1, 2026 (Session 013) | **GK distribution**, sweeper-keeper role, build-up under pressure, distribution decision-making | Internal synthesis (elite coach philosophies: Guardiola, Ancelotti, Tuchel, Potter; modern goalkeeper archetypes; decision-making frameworks; age-group development) | System-specific GK role adjustments; set piece defense; fatigue effects on distribution accuracy (minutes 70-90); league-specific distribution norms |
+| Mar 2, 2026 (Session 014) | **Set piece DEFENSE**, corners, free kicks, goalkeeper organization, defensive positioning, coach philosophies (zonal vs. man-marking vs. hybrid) | Internal synthesis (elite coach approaches: Potter, Rangnick, Ancelotti, Mourinho, Dyche, Guardiola; corner mechanics; free kick wall setup; age-group training progressions) | Opposition-specific set piece patterns; formation-specific vulnerabilities (4-3-3 vs. 4-2-3-1 vs. 5-3-2); fatigue effects on set piece defense (minutes 70-90); inverted fullback set piece roles; second-ball organization |
+| Mar 2, 2026 (Session 016) | **Physical conditioning & fatigue**, how central/peripheral/metabolic fatigue degrades decision-making, elite coach fatigue management (Guardiola, Ancelotti, Potter, Klopp, Ten Hag, Rangnick), age-group conditioning progressions (U10-U18), position-specific fatigue curves, fatigue multiplier framework for scoring | Internal synthesis (sports science research: Bangsbo, Rampinini, Di Salvo, Vaeyens, Carling; elite coach fatigue philosophies; youth development age-specific approaches; decision-making degradation rates by category) | Psychological fatigue vs. metabolic fatigue isolation; tactical fatigue cumulative decision load; position-specific decision-making strategy switching; formation-specific fatigue resilience (4-3-3 vs. 3-5-2 vs. 4-2-3-1); goalkeeper fatigue-distribution accuracy correlation |
+| Mar 2, 2026 (Session 017) | **Set piece offense** â€” attacking corners, free kicks, throw-ins, elite coach philosophies (Guardiola asymmetry/deception, Ancelotti simplicity, Tuchel choreography, Potter opposition-specific, Dyche pragmatism, Rangnick pressing integration), second-phase positioning, fatigue vulnerability in final 20 mins, position-specific attacking roles | Internal synthesis (elite coach set piece philosophies, tactical design patterns, conversion data 8-12%, opposition-specific design methodology, second-phase goal rate 30-40% of set piece totals) | Goalkeeper distribution accuracy under set piece chaos; inverted fullback set piece attack positioning; optimal corner-taking timing/interval; how fatigue affects set piece execution (choreography vs. timing); throw-in efficiency correlation with possession %; age-group set piece training variance |
+| Mar 3, 2026 (Session 018) | **Team shape effects on individual player decisions** â€” 4-3-3 vs 4-4-2 vs 4-2-3-1 vs 3-5-2 formation structures; pressing trigger changes; coverage responsibilities; passing lane availability; cover shadow geometry; CDM vs CM vs winger vs wing-back role differences; formation-specific pressing philosophies (Guardiola positional vs. Klopp intense vs. Rangnick structured); fatigue curves by formation; decision-making framework for scoring in different formations | Web research (Coaches' Voice, Ekkono Coaching, Modern Soccer Coach, Tactical Analyst, formation-specific tactical guides); internal synthesis (formation adaptation mechanics, pressing trigger recognition, half-space utilization, build-up advantages/disadvantages) | Formation transitions mid-match; asymmetrical formations (half-pitch formation changes); inverted fullback impacts on formation structure (defer to Session 020); age-group formation introduction timing; set piece formation adjustments; psychological vs. metabolic fatigue in different formations |
+| Mar 3, 2026 (Session 019) | **Formation-specific fatigue curves** â€” 3-5-2 (wing-back vulnerability 65-75 min), 4-3-3 (midfielder fatigue 70-80 min), 4-2-3-1 (deceleration-heavy, CDM fatigue 65-75 min), 4-4-2 (balanced, striker isolation 75+ min); position-specific physical demand profiles; decision-making degradation curves; pressing trigger accuracy by formation; elite coach fatigue management (Guardiola, Tuchel, Conte, Klopp); age-group formation-specific fatigue (U12, U15, U18+); fatigue multiplier scoring framework | Scientific research (Tierney et al. 2016, Bradley et al. 2011, Arjol-Serrano et al. 2021, Memmert et al. 2019); Coaches' Voice formation analysis; GPS/tracking system data; elite coach philosophy synthesis | Tactical fatigue vs. metabolic fatigue isolation; formation transition mid-match fatigue reset; opposition formation impact on fatigue patterns; goalkeeper fatigue by formation; cumulative decision fatigue quantification |
+| Mar 3, 2026 (Session 020) | **Inverted fullback positioning effects on midfield structure** â€” What is an inverted fullback; positional changes for CM/CAM; formation variations (4-3-3 inverted, 4-2-3-1 inverted); elite coach philosophies (Guardiola "fullback as 7th midfielder", Enrique speed-of-play, Pochettino tactical timing, Rose pressing structure); radar axis adjustments (CM wider positioning, CAM overlap awareness, increased cognitive load); youth development progressions (U12-U15 skill building, U15-U18 elite application); defensive implications; set piece inverted FB roles; fatigue multiplier (1.15x cognitive load); common mistakes; integration with existing knowledge base | Internal synthesis (elite coach tactical analyses, formation frameworks, decision-making psychology, youth development methodologies) | Formation transition fatigue (does inverting mid-match reset fatigue clock?); goalkeeper distribution to inverted FB vs. traditional FB (different pressure profiles?); opposition adaptation to inverted fullback structure (how do top teams negate?); gender-specific differences in inverted fullback adoption (women's soccer vs. men's) |
+| Mar 3, 2026 (Session 021) | **Croatian/European football methodology** â€” Four major European system archetypes (Spanish possession, German pressing, Dutch technical-tactical, Italian defensive); historical context (Croatia's rise, HNK academy systems); fundamental principles (technical mastery, tactical literacy, systematic development); formation/positional philosophy differences; pressing trigger variations by formation; GK distribution expectations; set piece philosophy by system (asymmetrical vs. zonal vs. technical); age-group progression timelines (U6-U18 for each system); fatigue vulnerability windows by system; practical application to PitchSavvy scoring engine (pressing triggers, inverted fullback cognitive load, GK expectations, set piece scoring, age-group adjustments, fatigue management); 10 validation questions for Daniel | Internal synthesis (European system frameworks, coaching philosophy analysis, youth development progressions, tactical decision-making psychology) | Gender-specific system differences (women's soccer academy adoption); modern formation evolution (are elite academies adding 3-4-3 hybrids?); Italian tactical book synthesis (Scribd download needed); opposition-specific system adaptation methodology; exact age-group timing for inverted fullback/sweeper-keeper/set piece introduction |
+| Mar 4, 2026 (Session 022) | **Italian tactical methodology** â€” Catenaccio evolution (1950s-2010s) to modern pressing (Napoli 2021-2023); Juventus structural model (4-2-3-1 defensive precision, >82% GK pass completion); Roma Mourinho tactical rigidity; European tactical hybrids (4-2-3-1 inverted, 3-5-2 pressing, 5-3-2 pragmatism); GK distribution risk appetite framework (conservative vs. moderate vs. aggressive); pressing trigger differences (Italian opposition-pass-based vs. Spanish position-based vs. German intensity-based); youth development progressions U6-U18 (technical fundamentals â†’ tactical literacy â†’ system specialization â†’ elite application); set piece philosophy (man-marking hybrid vs. pure zones); fatigue profiles by Italian system (defensive rigidity vs. high-press demands); 10 validation questions for Daniel; PitchSavvy radar adjustments (GK distribution axes, pressing trigger scoring, set piece confidence calibration) | Internal synthesis (Italian club tactical analysis: Napoli, Juventus, Roma; European system frameworks; youth development methodologies; decision-making psychology; fatigue management strategies) | Scribd Italian tactical book unavailable (Daniel download needed); women's soccer gender-specific tactical differences; formation transition mid-match fatigue reset mechanisms; goalkeeper fatigue-distribution accuracy correlation; opposition-specific tactical adaptation strategies |
+
+*Leo adds a row here after each research session.*
