@@ -1,6 +1,6 @@
 # Leo — Learning Roadmap & Research Cycle
 *Self-directed learning plan. Leo updates this file after each session.*
-*Last updated: Mar 1, 2026*
+*Last updated: Mar 3, 2026 (Session 021 completed)*
 
 ---
 
@@ -41,8 +41,9 @@ If Leo is unsure about something, he flags it for Daniel with `❓ ASK DANIEL:` 
 | 018 | **Team shape effects on individual player decisions (4-3-3 vs 4-4-2 vs 4-2-3-1 vs 3-5-2; pressing triggers, positioning, coverage, fatigue)** | **1** | **~32KB** |
 | 019 | **Formation-specific fatigue curves (3-5-2, 4-3-3, 4-2-3-1, 4-4-2); position-specific vulnerability windows; decision-making degradation by formation; fatigue multiplier framework; elite coach fatigue management (Guardiola, Tuchel, Conte, Klopp)** | **1** | **~41KB** |
 | 020 | **Inverted fullback positioning effects on midfield structure; CM/CAM decision-making adjustments; 4-3-3 inverted vs. 4-2-3-1 inverted formations; elite coach philosophies (Guardiola, Enrique, Pochettino, Rose); youth development progressions (U12-U18); fatigue multiplier for cognitive load; set piece inverted FB roles** | **1** | **~27KB** |
+| 021 | **Croatian/European football methodology; Spanish/German/Dutch/Italian system archetypes; pressing triggers by formation; age-group progression timelines (U6-U18); GK distribution expectations; set piece philosophy by system; fatigue vulnerability by European system; practical application to PitchSavvy scoring** | **1** | **~40KB** |
 
-**Total: ~72 files, ~1326KB**
+**Total: ~73 files, ~1366KB**
 
 ---
 
@@ -118,8 +119,8 @@ Leo's analysis of the 72 sub-sub categories (12 sub-cats × 6 each) shows:
 - [x] **Team shape and how it affects individual player decisions** — ✅ COMPLETED (SESSION-018-TEAM-SHAPE-INDIVIDUAL-DECISIONS.md, 32KB) — Session 018
 - [x] **Formation-specific fatigue curves** — ✅ COMPLETED (SESSION-019-FORMATION-SPECIFIC-FATIGUE-CURVES.md, 41KB) — Session 019
 - [x] **Inverted fullback positioning effects on midfield structure** — ✅ COMPLETED (SESSION-020-INVERTED-FULLBACK-EFFECTS.md, 27KB) — Session 020
-- [ ] **Croatian/European football methodology** — Daniel's professional background; unique insights available — **NEXT (Session 021)**
-- [ ] **Italian/European tactical methodology** — the Scribd book Daniel found (needs download first)
+- [x] **Croatian/European football methodology** — ✅ COMPLETED (SESSION-021-CROATIAN-EUROPEAN-METHODOLOGY.md, 40KB) — Session 021
+- [ ] **Italian/European tactical methodology** — the Scribd book Daniel found (needs download first) — **NEXT (Session 022)**
 
 ---
 
@@ -230,5 +231,6 @@ Leo's analysis of the 72 sub-sub categories (12 sub-cats × 6 each) shows:
 | Mar 3, 2026 (Session 018) | **Team shape effects on individual player decisions** — 4-3-3 vs 4-4-2 vs 4-2-3-1 vs 3-5-2 formation structures; pressing trigger changes; coverage responsibilities; passing lane availability; cover shadow geometry; CDM vs CM vs winger vs wing-back role differences; formation-specific pressing philosophies (Guardiola positional vs. Klopp intense vs. Rangnick structured); fatigue curves by formation; decision-making framework for scoring in different formations | Web research (Coaches' Voice, Ekkono Coaching, Modern Soccer Coach, Tactical Analyst, formation-specific tactical guides); internal synthesis (formation adaptation mechanics, pressing trigger recognition, half-space utilization, build-up advantages/disadvantages) | Formation transitions mid-match; asymmetrical formations (half-pitch formation changes); inverted fullback impacts on formation structure (defer to Session 020); age-group formation introduction timing; set piece formation adjustments; psychological vs. metabolic fatigue in different formations |
 | Mar 3, 2026 (Session 019) | **Formation-specific fatigue curves** — 3-5-2 (wing-back vulnerability 65-75 min), 4-3-3 (midfielder fatigue 70-80 min), 4-2-3-1 (deceleration-heavy, CDM fatigue 65-75 min), 4-4-2 (balanced, striker isolation 75+ min); position-specific physical demand profiles; decision-making degradation curves; pressing trigger accuracy by formation; elite coach fatigue management (Guardiola, Tuchel, Conte, Klopp); age-group formation-specific fatigue (U12, U15, U18+); fatigue multiplier scoring framework | Scientific research (Tierney et al. 2016, Bradley et al. 2011, Arjol-Serrano et al. 2021, Memmert et al. 2019); Coaches' Voice formation analysis; GPS/tracking system data; elite coach philosophy synthesis | Tactical fatigue vs. metabolic fatigue isolation; formation transition mid-match fatigue reset; opposition formation impact on fatigue patterns; goalkeeper fatigue by formation; cumulative decision fatigue quantification |
 | Mar 3, 2026 (Session 020) | **Inverted fullback positioning effects on midfield structure** — What is an inverted fullback; positional changes for CM/CAM; formation variations (4-3-3 inverted, 4-2-3-1 inverted); elite coach philosophies (Guardiola "fullback as 7th midfielder", Enrique speed-of-play, Pochettino tactical timing, Rose pressing structure); radar axis adjustments (CM wider positioning, CAM overlap awareness, increased cognitive load); youth development progressions (U12-U15 skill building, U15-U18 elite application); defensive implications; set piece inverted FB roles; fatigue multiplier (1.15x cognitive load); common mistakes; integration with existing knowledge base | Internal synthesis (elite coach tactical analyses, formation frameworks, decision-making psychology, youth development methodologies) | Formation transition fatigue (does inverting mid-match reset fatigue clock?); goalkeeper distribution to inverted FB vs. traditional FB (different pressure profiles?); opposition adaptation to inverted fullback structure (how do top teams negate?); gender-specific differences in inverted fullback adoption (women's soccer vs. men's) |
+| Mar 3, 2026 (Session 021) | **Croatian/European football methodology** — Four major European system archetypes (Spanish possession, German pressing, Dutch technical-tactical, Italian defensive); historical context (Croatia's rise, HNK academy systems); fundamental principles (technical mastery, tactical literacy, systematic development); formation/positional philosophy differences; pressing trigger variations by formation; GK distribution expectations; set piece philosophy by system (asymmetrical vs. zonal vs. technical); age-group progression timelines (U6-U18 for each system); fatigue vulnerability windows by system; practical application to PitchSavvy scoring engine (pressing triggers, inverted fullback cognitive load, GK expectations, set piece scoring, age-group adjustments, fatigue management); 10 validation questions for Daniel | Internal synthesis (European system frameworks, coaching philosophy analysis, youth development progressions, tactical decision-making psychology) | Gender-specific system differences (women's soccer academy adoption); modern formation evolution (are elite academies adding 3-4-3 hybrids?); Italian tactical book synthesis (Scribd download needed); opposition-specific system adaptation methodology; exact age-group timing for inverted fullback/sweeper-keeper/set piece introduction |
 
 *Leo adds a row here after each research session.*
